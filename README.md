@@ -21,7 +21,6 @@ Requisitos Previos
 
 Ejecución
 - Descargar el script
-wget https://raw.githubusercontent.com/tuusuario/linux-system-diagnostic-tool/main/doctor_servicios.sh
 
 - Hacer ejecutable
 chmod +x doctor_servicios.sh
